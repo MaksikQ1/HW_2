@@ -7,7 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.print("Доп строка");
-        System.out.print("Hello QA Guru!");
+        System.out.print("Hello QA Guru!!");
 
 
         for (int i = 1; i <= 5; i++) {
