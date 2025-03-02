@@ -8,8 +8,12 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
 
         System.out.print("Доп строка");
+        System.out.print("Еще строка");
+        System.out.print("Еще строка");
+        System.out.print("Еще строка");
         System.out.print("Hello QA Guru!!");
 
+        System.out.print("Еще строка");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
